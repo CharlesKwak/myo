@@ -1,0 +1,8 @@
+# Ignore Android build files
+parser/bin/
+parser/gen/
+android/
+# IDE files
+*.iml
+.idea/
+.DS_Store
